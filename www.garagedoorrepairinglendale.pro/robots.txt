@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap:http://www.garagedoorrepairinglendale.pro/sitemap.txt
+Sitemap:http://g-garage.abrikos.biz/sitemap.txt

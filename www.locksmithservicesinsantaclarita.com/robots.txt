@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap:http://www.locksmithservicesinsantaclarita.com/sitemap.txt
+Sitemap:http://s-locks.abrikos.biz/sitemap.txt

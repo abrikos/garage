@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap:http://www.garagedoorrepairinburbank.com/sitemap.txt
+Sitemap:http://b-garage.abrikos.biz/sitemap.txt

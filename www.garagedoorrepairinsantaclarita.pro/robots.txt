@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap:http://www.garagedoorrepairinsantaclarita.pro/sitemap.txt
+Sitemap:http://s-garage.abrikos.biz/sitemap.txt

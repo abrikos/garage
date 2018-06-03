@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap:http://www.towingserviceinsantaclarita.com/sitemap.txt
+Sitemap:http://s-buksir.abrikos.biz/sitemap.txt

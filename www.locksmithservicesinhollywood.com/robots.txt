@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap:http://www.locksmithservicesinhollywood.com/sitemap.txt
+Sitemap:http://h-locks.abrikos.biz/sitemap.txt

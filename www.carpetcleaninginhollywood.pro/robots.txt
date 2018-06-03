@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap:http://www.carpetcleaninginhollywood.pro/sitemap.txt
+Sitemap:http://h-cleaner.abrikos.biz/sitemap.txt

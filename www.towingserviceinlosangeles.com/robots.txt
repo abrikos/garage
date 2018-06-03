@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap:http://www.towingserviceinlosangeles.com/sitemap.txt
+Sitemap:http://buksir.abrikos.biz/sitemap.txt

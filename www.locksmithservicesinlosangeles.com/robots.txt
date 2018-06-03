@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap:http://www.locksmithservicesinlosangeles.com/sitemap.txt
+Sitemap:http://locks.abrikos.biz/sitemap.txt

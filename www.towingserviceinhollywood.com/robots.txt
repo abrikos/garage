@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap:http://www.towingserviceinhollywood.com/sitemap.txt
+Sitemap:http://h-buksir.abrikos.biz/sitemap.txt

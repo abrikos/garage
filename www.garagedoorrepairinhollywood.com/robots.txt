@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap:http://www.garagedoorrepairinhollywood.com/sitemap.txt
+Sitemap:http://h-garage.abrikos.biz/sitemap.txt

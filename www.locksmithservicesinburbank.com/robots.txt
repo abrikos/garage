@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap:http://www.locksmithservicesinburbank.com/sitemap.txt
+Sitemap:http://b-locks.abrikos.biz/sitemap.txt

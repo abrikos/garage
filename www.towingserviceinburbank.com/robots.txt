@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap:http://www.towingserviceinburbank.com/sitemap.txt
+Sitemap:http://b-buksir.abrikos.biz/sitemap.txt

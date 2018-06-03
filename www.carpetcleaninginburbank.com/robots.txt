@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap:http://www.carpetcleaninginburbank.com/sitemap.txt
+Sitemap:http://b-cleaner.abrikos.biz/sitemap.txt

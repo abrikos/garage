@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap:http://www.locksmithservicesinglendale.com/sitemap.txt
+Sitemap:http://g-locks.abrikos.biz/sitemap.txt

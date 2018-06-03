@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap:http://www.towingserviceinglendale.com/sitemap.txt
+Sitemap:http://g-buksir.abrikos.biz/sitemap.txt

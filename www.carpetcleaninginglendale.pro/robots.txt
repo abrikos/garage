@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap:http://www.carpetcleaninginglendale.pro/sitemap.txt
+Sitemap:http://g-cleaner.abrikos.biz/sitemap.txt

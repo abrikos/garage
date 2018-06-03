@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap:http://www.carpetcleaninginsantaclarita.com/sitemap.txt
+Sitemap:http://s-cleaner.abrikos.biz/sitemap.txt

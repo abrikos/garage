@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap:http://www.carpetcleaninginlosangeles.pro/sitemap.txt
+Sitemap:http://cleaner.abrikos.biz/sitemap.txt
