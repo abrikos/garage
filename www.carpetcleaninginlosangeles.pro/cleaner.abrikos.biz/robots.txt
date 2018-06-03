@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap:http://cleaner.abrikos.biz/sitemap.txt

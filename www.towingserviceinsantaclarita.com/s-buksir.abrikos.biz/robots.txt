@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap:http://s-buksir.abrikos.biz/sitemap.txt

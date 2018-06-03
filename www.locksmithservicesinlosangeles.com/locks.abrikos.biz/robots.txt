@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap:http://locks.abrikos.biz/sitemap.txt
