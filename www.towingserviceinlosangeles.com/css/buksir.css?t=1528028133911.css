@@ -1,0 +1,106 @@
+@media (max-width: 1025px) {
+  body #content {
+    font-size: 25pt; } }
+body #content div#top-menu #menu-items {
+  background-color: silver !important; }
+  body #content div#top-menu #menu-items a {
+    color: #222 !important; }
+body #content #top-row {
+  background: url("../images/buksir/heder.jpg%3Fv=1") no-repeat top right;
+  background-size: 100% auto;
+  padding: 9px; }
+  body #content #top-row h1 {
+    color: white;
+    text-shadow: 9px 6px 11px black, 6px 8px 17px black;
+    font-weight: bold; }
+body #content .phone-container {
+  height: 100%;
+  background: url("../images/phone-bg.png") no-repeat top left;
+  background-size: cover;
+  text-align: center;
+  color: white; }
+  @media (max-width: 1025px) {
+    body #content .phone-container {
+      padding: 10px 10px 10px 205px; } }
+  @media (min-width: 1025px) {
+    body #content .phone-container {
+      padding: 10px 10px 10px 116px; } }
+  body #content .phone-container span {
+    display: block; }
+  body #content .phone-container a {
+    color: white;
+    font-weight: bold; }
+@media (max-width: 1025px) {
+  body #content #banners img {
+    width: 467px; } }
+@media (min-width: 1025px) {
+  body #content #banners img {
+    width: 331px;
+    height: 220px; } }
+body #content #banners .nm247 {
+  height: 100%;
+  background: url("../images/buksir/near_me_24-7.svg%3F1") no-repeat bottom right; }
+body #content #banners div.banner-text {
+  background: rgba(3, 3, 3, 0.5);
+  text-shadow: 1px 1px 2px black, 0 0 1em white; }
+body #content #footer {
+  margin-top: 40px;
+  display: flex; }
+  body #content #footer div {
+    width: 33.33%;
+    vertical-align: text-bottom;
+    display: flex;
+    justify-content: center; }
+  body #content #footer #footer247 img {
+    width: 100px; }
+  body #content #footer #truck {
+    align-items: flex-end; }
+    body #content #footer #truck img {
+      width: 100%; }
+  body #content #footer #nm img {
+    width: 100px; }
+body #content #bottom-row {
+  background: url("../images/buksir/footer.jpg") no-repeat top left;
+  background-size: 100%; }
+  @media (max-width: 1025px) {
+    body #content #bottom-row {
+      height: 29px; } }
+  @media (min-width: 1025px) {
+    body #content #bottom-row {
+      height: 85px; } }
+body #content .review .stars h3 {
+  display: inline-block; }
+body #content .review .review-border {
+  border: 1px solid silver; }
+body #content #content-Blogs a {
+  color: black; }
+body #content #content-Blogs img {
+  display: none; }
+body #content #content-Blogs h2.title {
+  background: url("../images/locks/blogs.png") no-repeat center left;
+  padding-left: 48px; }
+  body #content #content-Blogs h2.title a {
+    color: #163452; }
+body #content #content-Blogs .stars {
+  display: none !important; }
+body #content #content-Reviews h2 {
+  display: none; }
+body #content #content-Reviews img {
+  display: none; }
+body #content #content-Reviews a {
+  color: black; }
+body #content #content-Reviews .stars {
+  color: red; }
+body #content #content-Reviews .item-body {
+  padding: 6px;
+  border: 1px solid silver; }
+body #content #content-Services a {
+  color: black; }
+body #content #content-Services h2.title {
+  color: #163452; }
+  body #content #content-Services h2.title a {
+    color: #163452; }
+body #content #content-Services .stars {
+  display: none !important; }
+
+/*# sourceMappingURL=buksir.css.map */

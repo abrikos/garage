@@ -1,0 +1,21 @@
+#loading-image {
+  width: 50px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-top: 25px; }
+  #loading-image #popup-message {
+    text-align: center;
+    font-size: 1.4em;
+    top: 50px;
+    left: 38.2%;
+    position: fixed;
+    z-index: 100000; }
+
+@media (max-width: 1025px) {
+  #coupon {
+    width: 100%; }
+    #coupon img {
+      width: 100%; } }
+
+/*# sourceMappingURL=custom.css.map */
