@@ -1,2 +1,0 @@
-User-agent: *
-Sitemap:http://s-garage.abrikos.biz/sitemap.txt
