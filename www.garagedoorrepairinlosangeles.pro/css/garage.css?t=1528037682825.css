@@ -1,0 +1,212 @@
+@charset "UTF-8";
+.color-yellow {
+  color: #F39513 !important; }
+
+.color-white {
+  color: #FFF !important; }
+
+.bg-yellow {
+  background-color: #F39513 !important; }
+
+.bg-brown {
+  background-color: #2B2625; }
+
+.bg-blue {
+  background-color: #163452; }
+
+.color-blue {
+  color: #163452; }
+
+body .review-border {
+  border: 2px solid #F39513; }
+body a {
+  color: #163452; }
+body a.menu-item:before {
+  color: #F39513 !important; }
+body .phone-container {
+  padding: 10px;
+  background: url("../images/garage/phone-back.svg") no-repeat top left;
+  background-size: cover; }
+  @media (min-width: 1025px) {
+    body .phone-container h4 {
+      font-size: 1em; } }
+  body .phone-container a {
+    color: white;
+    font-weight: bold; }
+body div#content {
+  background-color: white; }
+  @media (min-width: 1025px) {
+    body div#content {
+      width: 1025px; } }
+  @media screen and (max-width: 992px) {
+    body div#content {
+      font-size: 35pt; }
+      body div#content h1 {
+        font-size: 2em; }
+      body div#content h2 {
+        font-size: 1.7em; }
+      body div#content h3 {
+        font-size: 1.2em; }
+      body div#content h4 {
+        font-size: 0.7em; } }
+  body div#content div#top-menu #menu-items {
+    background-color: #163452 !important; }
+    body div#content div#top-menu #menu-items a {
+      color: white !important; }
+  body div#content #lamp {
+    height: 100px; }
+  body div#content #topbar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center; }
+    body div#content #topbar div.content-cell {
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      display: flex; }
+      @media (max-width: 1025px) {
+        body div#content #topbar div.content-cell {
+          margin-bottom: 20px; } }
+    @media (max-width: 1025px) {
+      body div#content #topbar div.garage {
+        display: none; } }
+    body div#content #topbar div.garage img {
+      height: 150px; }
+    body div#content #topbar img#licensed {
+      width: 100px; }
+      @media (max-width: 1025px) {
+        body div#content #topbar img#licensed {
+          width: 50%; } }
+    @media (max-width: 1025px) {
+      body div#content #topbar div.logo img {
+        width: 100%; } }
+    @media (min-width: 1025px) {
+      body div#content #topbar div.logo img {
+        height: 100px; } }
+  body div#content div#onehour-container {
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: 100% auto; }
+    @media (min-width: 756px) {
+      body div#content div#onehour-container div#ohr-circle-wrap {
+        padding-top: 12%; } }
+    body div#content div#onehour-container div#ohr-circle-wrap img {
+      width: 20%; }
+    body div#content div#onehour-container div#ohr-arrows-wrap {
+      text-shadow: 1px 10px 10px black, 6px 6px 6em white; }
+      body div#content div#onehour-container div#ohr-arrows-wrap img {
+        width: 5%; }
+    body div#content div#onehour-container div#ohr-text-wrap {
+      padding: 1% 0 1%; }
+      body div#content div#onehour-container div#ohr-text-wrap h1 {
+        text-shadow: 1px 1px 2px black, 0 0 1em white; }
+  body div#content #google-map {
+    height: 401px;
+    margin: 10px; }
+    @media (max-width: 1025px) {
+      body div#content #google-map {
+        width: 100%; } }
+    @media (min-width: 1025px) {
+      body div#content #google-map {
+        width: 401px; } }
+  body div#content div#comment img {
+    width: 172px; }
+  body div#content div#comment #comment-text {
+    padding: 20px;
+    margin-left: 32px; }
+  body div#content .learn-more {
+    display: none;
+    text-align: right;
+    padding-right: 20px;
+    background: url("https://www.garagedoorrepairinlosangeles.pro/images/garage/volna.svg") no-repeat right;
+    content: "learn more";
+    font-weight: bold;
+    font-style: italic; }
+  body div#content div#complex-shape.site-0 {
+    background: url("../images/garage/0-garagedoor.jpg") no-repeat right top;
+    background-size: 54%; }
+  body div#content div#complex-shape.site-1 {
+    background: url("../images/garage/1-garagedoor.jpg") no-repeat right top;
+    background-size: 45%; }
+  body div#content div#complex-shape.site-2 {
+    background: url("../images/garage/1-garagedoor.jpg") no-repeat right top;
+    background-size: 45%; }
+  body div#content div#complex-shape.site-3 {
+    background: url("../images/garage/3-garagedoor.jpg") no-repeat right top;
+    background-size: 45%; }
+  body div#content div#complex-shape.site-4 {
+    background: url("../images/garage/4-garagedoor.jpg") no-repeat right top;
+    background-size: 45%; }
+  body div#content div#complex-shape {
+    background-position: right 0 bottom 98px;
+    background-color: #2B2625; }
+    body div#content div#complex-shape .bg {
+      margin: 20px 0 0 0;
+      height: 400px;
+      background: url("../images/garage/blok1.svg%3Fa") no-repeat top left;
+      background-size: 101%; }
+  body div#content #videos {
+    height: 100%; }
+    body div#content #videos video, body div#content #videos img#i1 {
+      border: 1px solid silver;
+      width: 100%; }
+  body div#content div#texts {
+    border: 2px solid #163452;
+    border-left: 0;
+    border-right: 0;
+    padding: 20px 0; }
+    body div#content div#texts .blog-body {
+      margin-top: 10px; }
+    body div#content div#texts .striped {
+      background: repeating-linear-gradient(-55deg, #fff 7px, #fff 15px, silver 5px, silver 20px); }
+  body div#content #mapandform div {
+    display: flex;
+    justify-content: center; }
+  body div#content div#footer {
+    margin-bottom: 5px; }
+    body div#content div#footer #center img {
+      width: 100%; }
+    body div#content div#footer #right a {
+      text-indent: -15px;
+      display: block;
+      color: black; }
+    body div#content div#footer #right a:before {
+      margin: 2px;
+      content: "○";
+      color: #F39513; }
+  body div#content .page-header {
+    margin: 20px 0; }
+    body div#content .page-header span {
+      display: inline-block;
+      padding: 5px; }
+  body div#content #marker {
+    width: 50px; }
+    @media (min-width: 1025px) {
+      body div#content #marker {
+        margin: 21px 0 0 0; } }
+  body div#content #content-Services a {
+    color: black; }
+  body div#content #content-Services h2.title {
+    background: url("../images/garage/strelka_service.png") no-repeat center left;
+    background-size: 40px;
+    padding-left: 50px;
+    color: #163452; }
+    body div#content #content-Services h2.title a {
+      color: #163452; }
+  body div#content #content-Services .stars {
+    display: none !important; }
+  body div#content #content-Blogs a {
+    color: black; }
+  body div#content #content-Blogs img {
+    display: none; }
+  body div#content #content-Blogs h2.title {
+    background: url("../images/garage/strelka_service.png") no-repeat center left;
+    background-size: 40px;
+    padding-left: 50px;
+    color: #163452; }
+    body div#content #content-Blogs h2.title a {
+      color: #163452; }
+  body div#content #content-Blogs .stars {
+    display: none !important; }
+
+/*# sourceMappingURL=garage.css.map */
